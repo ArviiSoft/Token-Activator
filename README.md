@@ -1,5 +1,5 @@
-# 🤖・Bota BİLEREK 6 Hata Bırakıldı
-⭐・**6 Hatayı Çözüp Botu Başlatabilirsiniz**
+# 🤖・Bota BİLEREK 6 Farklı Hata Bırakıldı
+⭐・**6 Hatayıda Çözüp Botu Başlatabilirsiniz**
 #
 #
 
